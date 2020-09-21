@@ -1,0 +1,13 @@
+Univale.Tcc.RL.Pogamut.Actions
+Univale.Tcc.RL.Pogamut.Behaviors.Abstract
+Univale.Tcc.RL.Pogamut.Behaviors.Agressive
+Univale.Tcc.RL.Pogamut.Behaviors.Navigation
+Univale.Tcc.RL.Pogamut.Bot
+Univale.Tcc.RL.Pogamut.DecisionMaking.Agent
+Univale.Tcc.RL.Pogamut.DecisionMaking.GameState
+Univale.Tcc.RL.Pogamut.gui
+Univale.Tcc.RL.Pogamut
+Univale.Tcc.RL.Pogamut.Services.GameStateFactory
+Univale.Tcc.RL.Pogamut.Services.Statistics
+Univale.Tcc.RL.Pogamut.Services.StuckDetector
+Univale.Tcc.RL.Pogamut.WeaponSelection
